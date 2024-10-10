@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-#include "my_add.hpp"
+#include "include/my_add.hpp"
 
 int main(int argc, char *argv[]) {
     if (argc != 3) {
